@@ -1,12 +1,8 @@
 ---
 name: explain-visual
-description: >-
-  This skill should be used when the user asks to "explain visually",
-  "use diagrams to explain", "visual explanation", "explain with flowcharts",
-  "explain architecture", "視覺化解釋", "用圖表說明", "畫圖解釋",
-  "幫我理解這個架構", "explain this concept", mentions wanting a visual or
-  diagrammatic explanation of a technical concept, architecture, process, or system.
+description: "explain, visual, visually, diagrams, explanation, flowcharts, architecture, 視覺化解釋, 用圖表說明, 畫圖解釋"
 version: 0.1.0
+disable-model-invocation: true
 ---
 
 # Explain Visual
