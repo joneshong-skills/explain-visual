@@ -2,7 +2,6 @@
 name: explain-visual
 description: "explain, visual, visually, diagrams, explanation, flowcharts, architecture, 視覺化解釋, 用圖表說明, 畫圖解釋"
 version: 0.1.0
-disable-model-invocation: true
 ---
 
 # Explain Visual
